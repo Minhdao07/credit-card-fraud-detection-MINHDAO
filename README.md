@@ -4,4 +4,3 @@ any information you can find in this website:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 
 References:
-https://rdrr.io/cran/performanceEstimation/man/smote.html
