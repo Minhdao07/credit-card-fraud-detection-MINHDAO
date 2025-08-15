@@ -1,5 +1,5 @@
 # credit-card-fraud-detection-MINHDAO
-Pet project to analyse some data from kaggle.
+Pet project to analyse dataset from Kaggle
 
 Any information you can find in this website:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
